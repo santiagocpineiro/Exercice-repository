@@ -1,2 +1,2 @@
-# Exercice-repository
+# Exercise-repository
 Exercise to test git
